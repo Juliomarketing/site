@@ -1,0 +1,70 @@
+.logo-topo{
+    background: url(../images/logo-topo.png);
+    width: 53px;
+    height: 38px;
+        }
+
+.logo-rodape{
+    background: url(../images/logo-rodape.png);
+    width: 89px;
+    height: 87px;
+
+}
+
+.foto-tag-inicial{
+    background: url(../images/foto-tag-inicial.png);
+    width: 163px;
+    height: 163px;
+}
+
+.menu{
+    font: 300 13px OpenSans;
+    color: #ffffff;
+}
+
+.fundo-topo-inicial{
+    background: url(../images/fundo-topo-inicial.png);
+}
+
+.slide-text{
+    font: 400 14px OpenSans;
+    color: #ffffff;
+}
+
+.slide-titulo-inicial{
+    font: 700 40px OpenSans;
+    color: #ffffff;
+}
+
+.div-slide-titulo-inicial{
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 4px;
+    width: 445px;
+    height: 65px;
+}
+
+.slide-border-inicial{
+    width: 2232px;
+    height: 28px;
+    background: -webkit-linear-gradient(0deg, #0a2cbb 0%, #06164a 49%, #0a2cbb 99%);
+    background: -moz-linear-gradient(0deg, #0a2cbb 0%, #06164a 49%, #0a2cbb 99%);
+    background: -o-linear-gradient(0deg, #0a2cbb 0%, #06164a 49%, #0a2cbb 99%);
+    background: -ms-linear-gradient(0deg, #0a2cbb 0%, #06164a 49%, #0a2cbb 99%);
+    background: linear-gradient(90deg, #0a2cbb 0%, #06164a 49%, #0a2cbb 99%);
+}
+
+.texto-pag-inicial{
+    font: 400 18px / 25px OpenSans;
+    text-align: center;
+}
+.botao{
+    background: url(../images/botao-saibamais.png);
+}
+.direitos{
+    font: 400 16px / 25px OpenSans;
+}
+
+.fundo-rodape{
+    background: url(../images/fundo-rodape.png);
+}

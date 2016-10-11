@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "homepage": "https://github.com/Juliomarketing/site",
+  "authors": [
+    "Julio Cezar <juliocezar.marketing@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
